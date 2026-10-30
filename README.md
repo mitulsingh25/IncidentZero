@@ -113,7 +113,7 @@ These are potential extensions, not claims about features currently implemented.
 
 ## Tech Stack
 
-- **Engine:** Unity — [INSERT UNITY VERSION]
+- **Engine:** Unity — 6.0
 - **Language:** C#
 - **XR:** XR Interaction Toolkit
 - **Interaction:** Unity XR interaction components and UI
