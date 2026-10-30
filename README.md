@@ -35,7 +35,7 @@ The project prioritizes functional mechanics, clear feedback, and a complete pla
 
 ### Requirements
 
-- Unity **[INSERT UNITY VERSION]**
+- Unity **6.0**
 - XR Interaction Toolkit and the project dependencies configured in the Unity project
 - A compatible VR headset and XR runtime for VR testing
 - A desktop setup may be used if desktop interaction is supported by the current project configuration
@@ -45,8 +45,8 @@ The project prioritizes functional mechanics, clear feedback, and a complete pla
 1. Clone or download this repository.
 2. Open Unity Hub.
 3. Select **Add project from disk** and choose the cloned `IncidentZero` folder.
-4. Open the project using **[INSERT UNITY VERSION]**.
-5. Open the main scene: **[INSERT MAIN SCENE NAME]**.
+4. Open the project using **6.0**.
+5. Open the main scene: **IncidentZero**.
 6. Ensure the required XR runtime and input configuration are available for your target setup.
 7. Press **Play** to run the scenario in the Unity Editor.
 
